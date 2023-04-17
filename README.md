@@ -1,0 +1,5 @@
+# Module 1
+Challenge
+Excel Assignment
+This assignment was difficult to start, as there were alot of components that required to be self-taught. Eventhough these subjects were covered in our classes, not having any visuals or research materials to go back to (slides, notes etc.) made it extremely difficult to get the assignment going.
+I have formed and joined a study group with other classmates, where we discussed and helped eachother out through the assignment when hitting roadblocks, especially when trying to determine what formulas to use for what section. A lot of the content covered in the classes, were not as clear as it could have been. I understand that this is a condensed, fast-paced bootcamp and that there is a lot of information to cover, but I really struggled with knowing what formula to use where. The excel cheat sheet provided was helpful, but not unless you knew exactly what you were trying to accomplish. I found that the data given in this first assignment was not very organized and didn't give us a specific goal. Using google or chatgpt to teach myself how to use excel defeats the purpose of enrolling in this course.
